@@ -1,0 +1,8 @@
+{
+  "Grocery": ["bigbasket", "dmart", "grocery", "reliance fresh", "nandini", "groceries"],
+  "Food & Dining": ["zomato", "swiggy", "dominos", "restaurant", "cafe", "mcdonald"],
+  "Utilities": ["electricity", "water", "bill", "broadband", "recharge"],
+  "Transport": ["ola", "uber", "indigo", "train", "bus", "metro", "flight"],
+  "Salary": ["salary", "credit", "payroll"],
+  "Entertainment": ["netflix", "hotstar", "spotify"]
+}
